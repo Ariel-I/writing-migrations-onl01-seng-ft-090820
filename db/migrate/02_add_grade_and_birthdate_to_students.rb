@@ -1,1 +1,1 @@
-class AddGradeAndBirthdayToStudents < ActiveRecord::Migration(5.2)
+class AddGradeAndBirthdayToStudents < ActiveRecord::Migration[5.2]
